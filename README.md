@@ -36,7 +36,7 @@ Com exemplos em Java e explicações claras, busca ser um guia acessível para d
 
 Você pode baixar e ler o PDF completo aqui:
 
-👉 [Clique para abrir o PDF](Codigo-Limpo-J-Bierrenbach.pdf)
+👉 [Clique para abrir o PDF](./C%C3%B3digo%20Limpo%20J%20Bierrenbach%20.pdf)
 
 ---
 
